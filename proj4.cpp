@@ -1,7 +1,4 @@
-//Title: proj4.cpp
-//Author: Jeremy Dixon
-//Date: 4/2/2022
-//Description: This is main for project 4.
+
 #include "CipherTool.h"
 #include <iostream>
 #include <ctime>
