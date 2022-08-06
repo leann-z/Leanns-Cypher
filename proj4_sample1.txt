@@ -1,0 +1,76 @@
+Welcome to UMBC Encryption
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. If you want to lift yourself up, lift up someone else. (Booker T. Washington)(Caesar)
+
+2. If you tell the truth, you don't have to remember anything. (Mark Twain)(Caesar)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+2
+2 ciphers Encrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. Li brx zdqw wr oliw brxuvhoi xs, oliw xs vrphrqh hovh. (Errnhu W. Zdvklqjwrq)(Caesar)
+
+2. Nk dtz yjqq ymj ywzym, dtz its'y mfaj yt wjrjrgjw fsdymnsl. (Rfwp Ybfns)(Caesar)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+3
+2 ciphers Decrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. If you want to lift yourself up, lift up someone else. (Booker T. Washington)(Caesar)
+
+2. If you tell the truth, you don't have to remember anything. (Mark Twain)(Caesar)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+2
+2 ciphers Encrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+4
+What would you like to call the export file?
+test1_run.txt
+2 ciphers exported
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+5
+Thanks for using UMBC Encryption

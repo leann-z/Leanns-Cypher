@@ -1,0 +1,87 @@
+Welcome to UMBC Encryption
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. The only thing worse than being blind is having sight but no vision. (Helen Keller)(Ong)
+
+2. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. (Martin Luther King, Jr.)(Ong)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+2
+2 ciphers Encrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. Tong-hong-e o-nong-long-yong tong-hong-i-nong-gong wong-o-rong-song-e tong-hong-a-nong bong-e-i-nong-gong bong-long-i-nong-dong i-song hong-a-vong-i-nong-gong song-i-gong-hong-tong bong-u-tong nong-o vong-i-song-i-o-nong-. (-Hong-e-long-e-nong Kong-e-long-long-e-rong-)(Ong)
+
+2. Dong-a-rong-kong-nong-e-song-song cong-a-nong-nong-o-tong dong-rong-i-vong-e o-u-tong dong-a-rong-kong-nong-e-song-song-; o-nong-long-yong long-i-gong-hong-tong cong-a-nong dong-o tong-hong-a-tong-. Hong-a-tong-e cong-a-nong-nong-o-tong dong-rong-i-vong-e o-u-tong hong-a-tong-e-; o-nong-long-yong long-o-vong-e cong-a-nong dong-o tong-hong-a-tong-. (-Mong-a-rong-tong-i-nong Long-u-tong-hong-e-rong Kong-i-nong-gong-,ong Jong-rong-.-)(Ong)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+3
+2 ciphers Decrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. The only thing worse than being blind is having sight but no vision. (Helen Keller)(Ong)
+
+2. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. (Martin Luther King, Jr.)(Ong)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+2
+2 ciphers Encrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. Tong-hong-e o-nong-long-yong tong-hong-i-nong-gong wong-o-rong-song-e tong-hong-a-nong bong-e-i-nong-gong bong-long-i-nong-dong i-song hong-a-vong-i-nong-gong song-i-gong-hong-tong bong-u-tong nong-o vong-i-song-i-o-nong-. (-Hong-e-long-e-nong Kong-e-long-long-e-rong-)(Ong)
+
+2. Dong-a-rong-kong-nong-e-song-song cong-a-nong-nong-o-tong dong-rong-i-vong-e o-u-tong dong-a-rong-kong-nong-e-song-song-; o-nong-long-yong long-i-gong-hong-tong cong-a-nong dong-o tong-hong-a-tong-. Hong-a-tong-e cong-a-nong-nong-o-tong dong-rong-i-vong-e o-u-tong hong-a-tong-e-; o-nong-long-yong long-o-vong-e cong-a-nong dong-o tong-hong-a-tong-. (-Mong-a-rong-tong-i-nong Long-u-tong-hong-e-rong Kong-i-nong-gong-,ong Jong-rong-.-)(Ong)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+4
+What would you like to call the export file?
+test3_run.txt
+2 ciphers exported
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+5
+Thanks for using UMBC Encryption

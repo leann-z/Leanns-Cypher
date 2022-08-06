@@ -1,0 +1,119 @@
+Welcome to UMBC Encryption
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. (Oprah Winfrey)(Caesar)
+
+2. Ktw jajwd rnszyj dtz fwj fslwd dtz qtxj xncyd xjhtsix tk mfuunsjxx. (Wfqum Bfqit Jrjwxts)(Caesar)
+
+3. The greatest glory in living lies not in never falling, but in rising every time we fall. (Nelson Mandela)(RailFence)
+
+4. L  euvL  euv( loetelf o ie ietelf o oe BbMre)vhiyl.vhiyl.oay(RailFence)
+
+5. We cannot always build the future of our youth, but we can build our youth for the future. (Franklin D. Roosevelt)(Ong)
+
+6. Pong-e-a-cong-e bong-e-gong-i-nong-song wong-i-tong-hong a song-mong-i-long-e-. (-Mong-o-tong-hong-e-rong Tong-e-rong-e-song-a-)(Ong)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+2
+3 ciphers Encrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. Mj csy psso ex alex csy lezi mr pmji, csy'pp epaecw lezi qsvi. Mj csy psso ex alex csy hsr'x lezi mr pmji, csy'pp riziv lezi irsykl. (Stvel Amrjvic)(Caesar)
+
+2. Ktw jajwd rnszyj dtz fwj fslwd dtz qtxj xncyd xjhtsix tk mfuunsjxx. (Wfqum Bfqit Jrjwxts)(Caesar)
+
+3. Te  vitea,iiemf(nehratgyiiileo nvflg  nsnvrie a No dlegtslrnln sni e lnbt igeyt el.esMna eo g nriur  wlla)(RailFence)
+
+4. L  euvL  euv( loetelf o ie ietelf o oe BbMre)vhiyl.vhiyl.oay(RailFence)
+
+5. Wong-e cong-a-nong-nong-o-tong a-long-wong-a-yong-song bong-u-i-long-dong tong-hong-e fong-u-tong-u-rong-e o-fong o-u-rong yong-o-u-tong-hong-,ong bong-u-tong wong-e cong-a-nong bong-u-i-long-dong o-u-rong yong-o-u-tong-hong fong-o-rong tong-hong-e fong-u-tong-u-rong-e-. (-Fong-rong-a-nong-kong-long-i-nong Dong-. Rong-o-o-song-e-vong-e-long-tong-)(Ong)
+
+6. Pong-e-a-cong-e bong-e-gong-i-nong-song wong-i-tong-hong a song-mong-i-long-e-. (-Mong-o-tong-hong-e-rong Tong-e-rong-e-song-a-)(Ong)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+3
+6 ciphers Decrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough. (Oprah Winfrey)(Caesar)
+
+2. For every minute you are angry you lose sixty seconds of happiness. (Ralph Waldo Emerson)(Caesar)
+
+3. The greatest glory in living lies not in never falling, but in rising every time we fall. (Nelson Mandela)(RailFence)
+
+4. Love the life you live. Live the life you love. (Bob Marley)(RailFence)
+
+5. We cannot always build the future of our youth, but we can build our youth for the future. (Franklin D. Roosevelt)(Ong)
+
+6. Peace begins with a smile. (Mother Teresa)(Ong)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+2
+6 ciphers Encrypted
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+1
+1. Mj csy psso ex alex csy lezi mr pmji, csy'pp epaecw lezi qsvi. Mj csy psso ex alex csy hsr'x lezi mr pmji, csy'pp riziv lezi irsykl. (Stvel Amrjvic)(Caesar)
+
+2. Ktw jajwd rnszyj dtz fwj fslwd dtz qtxj xncyd xjhtsix tk mfuunsjxx. (Wfqum Bfqit Jrjwxts)(Caesar)
+
+3. Te  vitea,iiemf(nehratgyiiileo nvflg  nsnvrie a No dlegtslrnln sni e lnbt igeyt el.esMna eo g nriur  wlla)(RailFence)
+
+4. L  euvL  euv( loetelf o ie ietelf o oe BbMre)vhiyl.vhiyl.oay(RailFence)
+
+5. Wong-e cong-a-nong-nong-o-tong a-long-wong-a-yong-song bong-u-i-long-dong tong-hong-e fong-u-tong-u-rong-e o-fong o-u-rong yong-o-u-tong-hong-,ong bong-u-tong wong-e cong-a-nong bong-u-i-long-dong o-u-rong yong-o-u-tong-hong fong-o-rong tong-hong-e fong-u-tong-u-rong-e-. (-Fong-rong-a-nong-kong-long-i-nong Dong-. Rong-o-o-song-e-vong-e-long-tong-)(Ong)
+
+6. Pong-e-a-cong-e bong-e-gong-i-nong-song wong-i-tong-hong a song-mong-i-long-e-. (-Mong-o-tong-hong-e-rong Tong-e-rong-e-song-a-)(Ong)
+
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+4
+What would you like to call the export file?
+test4_run.txt
+6 ciphers exported
+What would you like to do?
+1. Display All Ciphers
+2. Encrypt All Ciphers
+3. Decrypt All Ciphers
+4. Export All Ciphers
+5. Quit
+5
+Thanks for using UMBC Encryption
